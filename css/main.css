@@ -20,13 +20,13 @@ figcaption {
   text-align: center;
 }
 
-nav {
-  font-family: "Patua One", sans-serif;
-  font-size: 1.125rem;
-  font-weight: bold;
-}
+  nav {
+    font-family: "Patua One", sans-serif;
+    font-size: 1.125rem;
+    font-weight: bold;
+      }
 
-nav ol {
+    nav ol {
   list-style-type: none;
 }
 
@@ -36,10 +36,10 @@ nav a {
 }
 
 nav a:hover {
-  color: #b42885;
-  text-decoration: underline;
-}
+      color: #b42885;
+      text-decoration: underline;
+    }
 
-.intro {
+  .intro {
   font-size: 1rem;
 }
